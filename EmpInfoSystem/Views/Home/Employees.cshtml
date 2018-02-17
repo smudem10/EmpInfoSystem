@@ -1,0 +1,32 @@
+﻿@model List<Employee.BAL.EmployeeDTO>
+@{
+    ViewBag.Title = "Employees Page";
+}
+
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>ContractTypeName</td>
+            <td>RoleId</td>
+            <td>RoleName</td>
+            <td>RoleDescription</td>
+            <td>AnnualSalary</td>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+            <td>@item.contractTypeName</td>
+            <td>@item.roleId</td>
+            <td>@item.roleName</td>
+            <td>@item.roleDescription</td>
+            <td>@item.annualSalary</td>
+        </tr>
+
+    }
+
+</table>

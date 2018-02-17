@@ -1,0 +1,11 @@
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\bin\Debug\netstandard2.0\Employee.BAL.deps.json
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\bin\Debug\netstandard2.0\Employee.BAL.dll
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\bin\Debug\netstandard2.0\Employee.BAL.pdb
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\bin\Debug\netstandard2.0\Employee.DAL.dll
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\bin\Debug\netstandard2.0\Employee.DAL.pdb
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\obj\Debug\netstandard2.0\Employee.BAL.csprojResolveAssemblyReference.cache
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\obj\Debug\netstandard2.0\Employee.BAL.csproj.CoreCompileInputs.cache
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\obj\Debug\netstandard2.0\Employee.BAL.AssemblyInfoInputs.cache
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\obj\Debug\netstandard2.0\Employee.BAL.AssemblyInfo.cs
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\obj\Debug\netstandard2.0\Employee.BAL.dll
+C:\Users\kishore\source\repos\EmpInfoSystem\Employee.BAL\obj\Debug\netstandard2.0\Employee.BAL.pdb

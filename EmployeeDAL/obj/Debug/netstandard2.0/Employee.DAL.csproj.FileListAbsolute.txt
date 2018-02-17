@@ -1,0 +1,9 @@
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\bin\Debug\netstandard2.0\Employee.DAL.deps.json
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\bin\Debug\netstandard2.0\Employee.DAL.dll
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\bin\Debug\netstandard2.0\Employee.DAL.pdb
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\obj\Debug\netstandard2.0\Employee.DAL.csprojResolveAssemblyReference.cache
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\obj\Debug\netstandard2.0\Employee.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\obj\Debug\netstandard2.0\Employee.DAL.AssemblyInfoInputs.cache
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\obj\Debug\netstandard2.0\Employee.DAL.AssemblyInfo.cs
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\obj\Debug\netstandard2.0\Employee.DAL.dll
+C:\Users\kishore\source\repos\EmpInfoSystem\EmployeeDAL\obj\Debug\netstandard2.0\Employee.DAL.pdb

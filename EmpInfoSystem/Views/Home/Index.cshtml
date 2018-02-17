@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+    @using (Html.BeginForm("getDetails", "Home", FormMethod.Post))
+
+    {
+
+    <div class="jumbotron">
+        <h2>Getting started</h2>
+        Enter Employee ID:
+        <input type="text" id="EmpID" value="" />
+        <input type="submit" name="btn" value="Get Employees" />
+    </div>
+    }
